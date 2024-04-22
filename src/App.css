@@ -1,0 +1,18 @@
+body{
+  background-color: hsl(204,43%,93%);
+}
+
+
+.karla-regular {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.karla-bold {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
